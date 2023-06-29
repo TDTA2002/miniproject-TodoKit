@@ -31,7 +31,7 @@ export default function AnoModal({ show, handleClose, setTitle, handleSubmit }) 
                             className='status'
                         >
                             <option value="incomplete">Incomplete</option>
-                            <option value="complete">Complete</option>
+                            <option value="Complete ">Complete</option>
                         </select>
                     </Form.Group>
                 </Form>
